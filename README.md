@@ -1,1 +1,1 @@
-# dotfileshyprland
+# hyprland config backup
